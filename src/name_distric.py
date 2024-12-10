@@ -20,5 +20,5 @@ def get_name_from_district(district_id: Optional[int], file_path="list.txt"):
         raise HTTPException(status_code=500, detail=str(e))
 
 
-a = get_name_from_district(3)
-print(a)
+# a = get_name_from_district(3)
+# print(a)

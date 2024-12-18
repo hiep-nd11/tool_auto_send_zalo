@@ -22,3 +22,5 @@ rad.json
 TestResults.xml
 venv_toolzalo
 test.py
+cookies.py
+auto_install_driver.py

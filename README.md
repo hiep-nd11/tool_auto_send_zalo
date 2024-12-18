@@ -1,7 +1,7 @@
 # tool_auto_send_zalo
 Tool auto send zalo for Sari.
 
-The program will include food categories based on the food101 dataset.
+The program will auto send zalo when have a message from API.
 
 ## Installation
 ```bash
